@@ -1,0 +1,9 @@
+Diagnosis 
+COVID-19 should be considered a possibility in patients with respiratory tract symptoms and newly onset fever or in patients with severe lower respiratory tract symptoms with no clear cause. Suspicion is increased if such patients have been in an area with community transmission of SARS-CoV-2 or have been in close contact with an individual with confirmed or suspected COVID-19 in the preceding 14 days. 
+Microbiologic testing is required for definitive diagnosis. At present, such testing is of limited availability. 
+Patients who do not require emergency care are encouraged to contact their healthcare provider over the phone. Patients with suspected COVID-19 who present to a healthcare facility should prompt infection-control measures. They should be evaluated in a private room with the door closed (an airborne infection isolation room is ideal) and asked to wear a surgical mask. All other standard contact and airborne precautions should be observed, and treating healthcare personnel should wear eye protection. 
+The antiviral drug gained emergency use authorization (EUA) from the FDA on May 1, 2020, based on preliminary data showing a faster time to recovery of hospitalized patients with severe disease. Numerous other antiviral agents, immunotherapies, and vaccines continue to be investigated and developed as potential therapies. 
+In addition, infected patients should receive supportive care to help alleviate symptoms. Vital organ function should be supported in severe cases. 
+No vaccine is currently available for SARS-CoV-2. Avoidance is the principal method of deterrence. 
+Numerous collaborative efforts to discover and evaluate effectiveness of antivirals, immunotherapies, monoclonal antibodies, and vaccines have rapidly emerged. Guidelines and reviews of pharmacotherapy for COVID-19 have been published. 
+Present avaliable Treatment of Coronavirus Disease 2019 (COVID-19) :Investigational Drugs and Other Therapies. 

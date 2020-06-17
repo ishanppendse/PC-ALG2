@@ -1,0 +1,19 @@
+PHARMACOLOGICAL MANAGEMENT 
+Currently, there are no proven effective vaccines or therapeutic agents against the virus, the treatments of patients with SARS-CoV-2 infection are mainly repurposing the available therapeutic drugs and based on symptomatic conditions. Current clinical management includes infection prevention and control measures and supportive care including supplemental oxygen and mechanical ventilatory support. Considering that major impact of COVID-19 is ARDS, followed by secondary infections, antibiotics, antiviral therapy, systemic corticosteroids, and anti-inflammatory drugs (including anti-arthritis drugs) are often used in the treatment regimens. In addition to antiviral interferers and antibiotics, neuraminidase inhibitors, RNA synthesis inhibitors, convalescent plasma, and traditional herbal medicines have also been utilized in the treatment of COVID-19 
+Some of the antiviral agents are 
+• Remdesivir 
+• Hydroxychloroquine and Chloroquin 
+• Lopinavir-Ritonavir 
+• Umifenovir 
+• Favipiravir 
+• Oseltamivir 
+In the absence of vaccine or specific antiviral drugs been proven against SARS-CoV-2, many adjunctive therapies are used as supportive care for COVID-19 patients. These include 
+• Azithromycin 
+• Vitamin C 
+• Corticosteroids(methylprednisolone, Dexamethasone etc) 
+• Inhaled nitric oxide (iNO) and inhaled epoprostenol 
+• Sirolimus 
+Some other techniques include: 
+• Convalescent plasma-This treatment refers to transfusion of plasma loaded with antibodies from individuals after resolution from a specific pathogen 
+• Anticoagulation-Disseminated intravascular coagulation and elevated d-dimer level were identified as predictors of worst outcomes in cohort study of patients with COVID-19. Patients receiving anticoagulants had a decreased mortality rate 
+Nevertheless the best option is relying on the proverb ‘Prevention is better than cure’ and stay at home 

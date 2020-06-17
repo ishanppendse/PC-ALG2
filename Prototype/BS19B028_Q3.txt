@@ -1,0 +1,7 @@
+Pharmacological management of the infection:
+Chloroquine and hydroxychloroquine appear to block viral entry into cells by inhibiting glycosylation of host receptors, proteolytic processing, and endosomal acidification. These agents also have immunomodulatory effects through attenuation of cytokine production and inhibition of autophagy and lysosomal activity in host cells. Chloroquine inhibits SARS-CoV-2 in vitro with a half-maximal effective concentration in the low micromolar range.
+Remdesivir is a potential drug for treatment of COVID-19. It is a prodrug of an adenosine C-nucleoside and a broad-spectrum antiviral agent synthesized and developed by Gilead Sciences in 2017 as a treatment for Ebola virus infection. Remdesivir is metabolized into its active form, that obscures viral RNA polymerase and evades proofreading by viral exonuclease, causing a decrease in viral RNA production. The antiviral mechanism of Remdesivir is a delayed chain cessation of nascent viral RNA.
+The COVID-19 pandemic represents the greatest global public health crisis in the past 100 years. Hopefully vaccines targeting SARS-CoV-2 will be made available in the next few months or years. With the speed and volume of basic and clinical COVID-19 research to develop potential drugs and therapies for this disease, our hope will be on the horizon.
+
+
+

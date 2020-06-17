@@ -1,0 +1,12 @@
+ENTRY INTO HUMAN CELLS 
+SARS CoV-2 targets a type of receptor found in lungs, heart and kidneys and intestines. Virus seems to attack two type of lung cells namely goblet cells and ciliated cells. Virus protein has two receptor binding domains(RBDs) one facing upwards and other facing downwards these allow the virus to bind with and invade human cells. ORF 1 downstream regions encode protein for viral replication, nucleocapsid and spikes formation 
+• The virus targets human ACE-2 receptors that has bonded with an amino acid transporter. 
+• The virus uses the spike protein up RBD to penetrate to the cell via endocytosis 
+• The virus dissolves it’s own protein shell and releases the RNA payload into the cell (according to British Society Of Immunology) 
+• The viral RNA is then translated into viral replicase proteins pp1a and 1ab which are then cleaved into small products by viral proteinases which in turn generates a RNA dependent RNA polymerase 
+• The polymerase produces a series of sub genomic m-RNA by discontinuous transcription 
+• m-RNA is then translated into relevant viral proteins 
+• The viral RNA takes over the host cells ER to replicate itself and to manufacture protein parts to make new viruses 
+• The hijacked cells Golgi bodies then package the viral RNA and proteins in a viral protein shell 
+• This leads to creation of new viruses that leave the infected cell via the membrane and process is exocytosis 
+• The coronavirus takeover imposes stress on the cell which leads to cell death or apoptosis as the cell lose it’s ability to maintain homeostasis 

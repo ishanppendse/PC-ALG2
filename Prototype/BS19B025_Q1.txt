@@ -1,0 +1,27 @@
+Structural features of COVID-19 VIRUS 
+Like other coronaviruses, SARS-CoV-2 particles are spherical and have proteins called spikes protruding 
+from their surface. These spikes latch onto human cells, then undergo a structural change that allows the 
+viral membrane to fuse with the cell membrane. The viral genes can then enter the host cell to be copied, 
+producing more viruses. Recent work shows that, like the virus that caused the 2002 SARS outbreak,SARS- 
+CoV-2 spikes bind to receptors on the human cell surface called angiotensin-converting enzyme 2(ACE2). 
+•coronaviruses belong to the Coronaviridae family in the Nidovirales order. Corona represents 
+crown-like spikes on the outer surface of the virus; thus, it was named as a coronavirus. 
+Coronaviruses are minute in size (65 to 125 nm in diameter) and contain a single-stranded RNA as 
+a nucleic material, size ranging from 26 to 32 kbs in length (fig.1). The subgroups of coronaviruses 
+family are alpha (a), beta (ß), gamma (?) and delta (d) coronavirus. The severe acute respiratory 
+syndrome coronavirus (SARS-CoV), H5N1 influenza A, H1N1 2009 and Middle East respiratory 
+syndrome coronavirus (MERS-CoV) cause acute lung injury (ALI) and acute respiratory distress 
+syndrome (ARDS) which leads to pulmonary failure and result in fatality. These viruses were 
+thought to infect only animals until the world witnessed a severe acute respiratory syndrome 
+(SARS) outbreak caused by SARS-CoV, 2002 in Guangdong, China. Only a decade later, another 
+pathogenic coronavirus, known as Middle East respiratory syndrome coronavirus (MERS-CoV) 
+Figure 1. 
+Caused an endemic in Middle Eastern countries . Fig 1. structure of respiratory syndrome causing 
+human coronavirus, This virus was reported to be a member of the ß group of corona viruses. The 
+novel virus was named as Wuhan coronavirus or 2019 novel coronavirus (2019-nCov) by the 
+Chinese researchers. 
+The International Committee on Taxonomy of Viruses (ICTV) named the virus as SARS-CoV-2 and 
+the disease as COVID-19. 
+Genome’s structure The human genome comprises of roughly 3.2 billion base pairs across 46 chromosomes.Only a 
+small fraction of this sequence codes for functional genes.The remainder is made up of repeating 
+elements pseudogenes,microsatellites and transposons.

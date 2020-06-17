@@ -1,0 +1,13 @@
+Structural Features of Covid-19 Virus 
+• Coronaviruses are large, enveloped, positive-stranded RNA viruses. The virus is positive- stranded meaning that they have a "sense" strand of RNA (coded information about how to build proteins) as their genetic material. 
+• The genome is packed inside a helical capsid formed by the nucleocapsid protein and further surrounded by an envelope. A capsid is the protein shell of a virus, enclosing genetic material. In positive-stranded RNA viruses, with 5’-cap structure and 3’-poly-A-tail, helical capsids are typically composed of many identical subunits of the viral capsid protein, encapsulating a molecule of viral genomic RNA. 
+• The main structural proteins that are associated with the envelope are: 1. The membrane protein(M) has three transmembrane domains, promotes membrane 
+curvature and binds to the nucleocapsid. 2. The envelope protein(E) plays a role in virus assembly and release and is involved in viral 
+pathogenesis. 3. The nucleocapsid protein(N) contains two domains, both of which can bind virus RNA 
+genomes through different mechanisms. 4. The spike protein which mediates virus entry into host cells. 
+• Among these structural proteins, the spike forms large protrusions from the virus surface, giving coronaviruses the appearance of having crowns. 
+• Researchers have found that the covid-19 spike protein was 10 to 20 times more likely to bind ACE2 on human cells than the spike from the SARS virus from 2002. This may enable covid-19 to spread more easily from person to person than the earlier virus. Both SARS-CoV and SARS-CoV-2 bind to the same human receptor, known as ACE2. They found that a few genetic mutations led the SARS-CoV-2's spike protein to develop a more compact molecular "ridge" than that of SARS-CoV. This more compact structure, and several other small differences, allows SARS-CoV-2 to attach more strongly to the human ACE2 receptor, thereby enabling it to better infect cells and thus spread faster than the SARS coronavirus. 
+
+
+
+

@@ -1,0 +1,13 @@
+The Structural Features of Covid-19 Virus 
+• SARS CoV-2 virus is a betacoronavirus which was discovered in Wuhan City, Hubei Province, China in December 2019. 
+• They are enveloped, positive-sense, single-stranded RNA viruses of zoonotic origin. 
+• They are spherical to pleomorphic particles, measuring between 80 and 160 nm in length. 
+• SARS CoV-2 contains five structural proteins, namely envelope (E), spike (S), membrane (M), nucleocapsid (N), HEMAGG glycoprotein (HE). 
+• The S, M, and E proteins together form the envelope of the virus. The M protein is the most abundant, mostly responsible for the shape of the envelope. The E protein is the smallest structural protein. 
+• The S and M proteins are also the transmembrane proteins that are involved in virus assembly during replication. 
+• N proteins remain associated with the RNA forming a nucleocapsid inside the envelope. 
+• Although N protein is largely involved in processes relating to the viral genome, it is also involved in other aspects of the CoV replication cycle (assembly and budding) and the host cellular response to viral infection. 
+• HEMAGG glycoprotein forms a second type of spike, smaller than the spike protein, on the envelopes of some group II(betacoronavirus) coronaviruses. HE displays hemagglutinating and esterase activities 
+• Polymers of S proteins remain embedded in the envelope giving it a crown-like appearance, thus the name coronavirus. 
+• The genome of SARS-CoV-2 is a single-stranded positive-sense RNA of 30kb (29891 nucleotides) encoding 9860 amino acids. The G + C content is 38%. 
+• The spike protein of SARS-CoV-2 contains a 3-D structure in the receptor-binding domain (RBD) region to maintain the van der Waals forces. 

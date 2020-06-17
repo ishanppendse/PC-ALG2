@@ -1,0 +1,29 @@
+Pharmacological Management of the Infection 
+There is no directed therapy for COVID-19. The standard is best supportive care – as is the case for many viral illnesses. Therefore, any current use of pharmacotherapy is ‘off label’ and at discretion of the treating doctor in consultation with the patient on a case-by-case basis. Some the reviewed therapies are the subject of imminent or ongoing clinical trials. 
+• Convalescent plasma infusion/exchange 
+o Immunotherapy using virus specific antibodies in convalescent plasma was used to improve survival rates of patients with serious infections. Therapeutic plasma exchange offers benefit on multiple levels by removing cytokines, stabilising endothelial membranes, and resetting the hypercoagulable state. 
+• Nucleoside analogues 
+o They target the RNA polymerase responsible for replication of viral RNA causing termination of viral genome replication by accumulating mutations and blocking entry of incoming natural nucleotides. 
+• Anti-Inflammatory Drugs 
+o Chloroquine has anti-viral activities by inhibiting endosomal acidification (required for virus-host cell fusion) and interfering with glycosylation of the cellular receptor. The efficacy of chloroquine in-vitro has been established against COVID-19 
+• Protease Inhibitors 
+o Protease inhibitors bind and inhibit viral proteases responsible for proteolytic cleavage of large polyproteins, encoded by viral genome, which are required for viral gene expression and replication. 
+• AP2-associated protein kinase-1 inhibitors (AAK1 inhibitors) 
+o Baricitinib is a high affinity AAK1-binding drug that binds with another regulator 
+of endocytosis (movement of virus into cell), the cyclin G-associated kinase. 
+• Angiotensin Converting Enzyme and Fusion Proteins 
+o A proposed ACE2-fused protein potentially prevents infection by interfering with this key virus-cell interaction by binding to the receptor binding domain of the COVID-19 S protein that binds to ACE2 to gain cell entry. 
+• Corticosteroids 
+o Although current Who recommendations advise against their use, case reports 
+still exist, of complex patients being managed with steroids 
+• ‘Novel’ anti-viral agents 
+o Arbidol is a broad spectrum anti-viral drug that inhibits virus-mediated fusion 
+with a target membrane and a resulting block on virus entry 
+• Anti-viral Interferons 
+o Type I IFNs are antiviral cytokines that induce a large range of proteins that can 
+impair viral replication in targeted cells. 
+• Antibiotics 
+o In coronaviruses (such as SARS and MERS), Teicoplanin inhibits the low-pH cleavage of the viral Spike protein by cathepsin L in the late endosomes, thereby preventing the release of viral RNA and continuation of the viral life cycle. A recent study has shown this attenuating activity is present in COVID- 19. 
+• Anti-parasitic drugs 
+o Ivermectin is a commonly used anti-parasitic drug recently shown to have in- 
+vitro activity against COVID-19. 

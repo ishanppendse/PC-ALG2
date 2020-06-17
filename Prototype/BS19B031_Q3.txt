@@ -1,0 +1,13 @@
+The Current Pharmacological Management of the Infection 
+• No proven effective therapies for this virus currently exist. More than 300 active clinical treatment trials are underway. 
+• Once virus enters the cell, viral polyproteins are synthesized that encode for the replicase-transcriptase complex. The virus then synthesizes RNA via its RNA-dependent RNA polymerase. Structural proteins are synthesized leading to completion of assembly and release of viral particles. These viral lifecycle steps provide potential targets for drug therapy 
+• Promising drug targets include nonstructural proteins (eg, 3-chymotrypsin-like protease, papain-like protease, RNA-dependent RNA polymerase), which share homology with other novel coronaviruses (nCoVs). Additional drug targets include viral entry and immune regulation pathways 
+• At present in the absence of proven therapy for SARS-CoV-2, the cornerstone of care for patients with COVID-19 remains supportive care, ranging from symptomatic outpatient management to full intensive care support. 
+• Agents previously used to treat SARS and MERS are potential candidates to treat COVID-19 
+• Currently used adjunctive treatment is: 
+? Mild illness and pneumonia: 
+? Symptomatic Treatment ? chloroquine/HCQ, ? lopinavir-ritonavir ? umifenovir 
+? Severe and Critical cases: 
+? Remdesivir ? Systemic corticosteroids (against routine use) ? Low molecular weight heparin ? Interleukin-6 inhibitors (Tocilizumab) ? Convalescent plasma 
+• Mesenchymal stem cell therapy, which has been investigated in COVID-19 patients, but is not included in the treatment algorithm of any of the guidelines. 
+• The most promising therapy is Remdesivir. Remdesivir has potent in vitro activity against SARS-CoV-2, but it is not US Food and Drug Administration approved and currently is being tested in ongoing randomized trials.

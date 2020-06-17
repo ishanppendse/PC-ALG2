@@ -1,0 +1,11 @@
+Viral Entry into Human Cells 
+• Recent work shows that, like the virus that caused the 2002 SARS outbreak, the virus targets cells using its spike protein that binds to receptors on the human cell surface called angiotensin- converting enzyme 2 (ACE2). 
+• The virus enters the body through the nose, mouth or eyes, then attaches to cells in the airway that produce the ACE2. 
+• The binding of the spike S1 protein of SARS-CoV2 to the enzymatic domain of ACE2 on the surface of cells results in endocytosis and translocation of both the virus and the enzyme into endosomes located within cells. 
+• Endocytosis: Both enveloped and nonenveloped viruses use the proteins present on their surfaces to bind to and enter the host cell. Research shows that viruses have evolved the ability to efficiently hijack and use the cell's endocytosis mechanism to invade their host cells. Endocytosis is a fundamental cellular activity that is utilized by the majority of animal virus families to introduce their genetic material to the cell interior. 
+• Following receptor binding, the virus particle uses host cell receptors and endosomes to enter cells. A host type 2 transmembrane serine protease, TMPRSS2, facilitates cell entry via the S protein. 
+• Once inside the cell, viral polyproteins are synthesized that encode for the replicase- transcriptase complex. The virus then synthesizes RNA via its RNA polymerase. Structural proteins are synthesized then leading to completion of assembly and release of viral particles. This is how the virus proliferates. 
+
+
+
+

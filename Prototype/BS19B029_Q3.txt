@@ -1,0 +1,11 @@
+Pharmacological treatment: 
+There is no specific treatment for this disease. Healthcare providers are mostly using a symptomatic approach, meaning they treat the symptoms rather than target the virus, and provide supportive care (e.g. oxygen therapy, fluid management) for infected persons, which can be highly effective. Also, as this is a new virus, no vaccine is currently available. Although work on a vaccine has already started by several research groups and pharmaceutical companies worldwide, it may be months to more than a year before a vaccine has been tested and is ready for use in humans. 
+• The most commonly used drugs to treat covid-19 are chloroquine and hydroxychloroquine. 
+1. They block viral entry into cells by inhibiting glycosylation of host receptors, proteolytic 
+processing, and endosomal acidification. Post-translational modification which occurs when a protease cleaves one or more bonds in a target protein to modify its activity, thus leading to inhibition or destruction of the protein’s activity. 2. Chloroquine inhibits the virus in vitro with a half-maximal effective concentration in the 
+low micromolar range. 3. Hydroxychloroquine has in vitro activity with a lower effective concentration for the 
+virus compared to chloroquine. 
+• In China, Favilavir, an antiviral drug, approved by The National Medical Products Administration of China, is used as a treatment for coronavirus. The drug has reportedly shown efficacy in treating the disease with minimal side effects in a clinical trial involving 70 patients. The clinical trial is being conducted in Shenzhen, Guangdong province. 
+
+
+

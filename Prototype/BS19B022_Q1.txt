@@ -1,0 +1,23 @@
+The COVID-19 pandemic has taken the world by storm. Biotechnologists all over the world are working towards the development of a suitable and effective vaccine for the same. This project comprises concise, well-articulated, experimentally obtained facts about the structure, viral entry into human cells and the current pharmacological management of the new coronavirus. 
+Structure of COVID-19 
+In general, all coronaviruses have a crown-like appearance under an electron microscope (“coronam” is Latin for “crown”). 
+COVID-19 (also known as SARS-CoV-2, HCoV) is an enveloped particle, containing single-stranded (positive-sense) RNA associated with a nucleoprotein, within a capsid comprising matrix proteins. This envelope bears club-shaped S-glycoprotein projections, hemagglutinin esterase dimer (HE), a membrane glycoprotein (M), an envelope protein (E), a nucleocapsid protein(N) and RNA. It has a spherical or ellipsoidal shape and often exists in pleomorphic form. The particles have a diameter of 60-140 nm. This has been illustrated in the figure below (Fig.1): 
+Fig.1 
+The envelope of the new coronavirus has special spike-like proteins called S-glycoproteins that help the virus anchor to the host cell. In order for the virus to complete entry into the cell following this initial process, the spike protein has to be primed by an enzyme called a protease (Fig.2). Similar to SARS-CoV, SARS-CoV-2 (COVID-19) uses a protease called TMPRSS2 to complete this process. In order to attach virus receptor (spike protein) to its cellular ligand (ACE2- angiotensin-converting-enzyme-2), activation by TMPRSS2 as a protease is needed. 
+S-glycoprotein (spike protein) is made up of three smaller protein subunits called S-proteins, each with two domains – S1 and S2. The S1 domain latches on to human cells by binding to a protein, ACE-2(angiotensin- converting-enzyme). The S2 domain then links the membranes of the virus and human cells, undergoing structural changes to help form a pore through the membrane. Next, the virus’s genetic material (RNA) passes through this pore into the host cell, allowing it to multiply inside the human cells. Each structural component’s role in viral-entry has been elucidated below: 
+S-glycoprotein: 
+? Utilizes an N-terminal signal sequence to gain access to the ER and mediate 
+attachment to host receptors. ? It is the largest structure and makes the distinct spikes on the surface of the virus. ? For SARS-CoV-2, S protein is cleaved, by a cellular furin-like, serine protease, TMPRSS2, into two separate polypeptides S1 and S2. S1 also consists of a 
+Receptor Binding Domain (RBD) which binds to virus receptor ACE2 (Angiotensin-converting-enzyme). 
+RNA: ? It is the genome of the virus. 
+Nucleocapsid protein (N): 
+? It binds to RNA in vitro and is heavily phosphorylated. ? N-proteins binds the viral genome in a “beads on a string” type conformation. ? This protein likely helps tether the viral genome to replicase-transcriptase complex (RTC), and 
+subsequently package the encapsulated genome into viral particles. 
+Envelope protein (E): 
+? It is found in small quantities in within the virus. ? It is most likely a transmembrane protein and with ion channel activity. ? The protein facilitates assembly and release of the virus and has other functions such as ion channel 
+activity. It is not necessary for viral replication but it is for pathogenesis. 
+Membrane protein (M): 
+? It is the most abundant structural protein. ? It does not contain signal sequence and exists as a dimer in the virion. ? It may have two different conformations to enable it to promote membrane curvature as well as bind 
+to nucleocapsid. 
+Hemagglutinin-esterase dimer protein (HE): ? It is present in a subset of beta-coronaviruses. ? The protein binds sialic acids on surface glycoproteins. ? The protein activities are thought to enhance S protein-mediated cell entry and virus spread through 
+the mucosa. 

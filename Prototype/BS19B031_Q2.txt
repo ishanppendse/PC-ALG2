@@ -1,0 +1,17 @@
+The Molecular Principles underlying The Viral entry into Human Cell 
+. 
+• All coronaviruses contain specific genes in ORF1 downstream regions that encode proteins for viral replication, nucleocapsid and spikes formation. 
+• The glycoprotein spikes on the outer surface of coronaviruses are responsible for the attachment and entry of the virus to host cells. 
+• The receptor-binding domain (RBD) is loosely attached among virus, therefore, the virus may infect multiple hosts. 
+• The entry mechanism of a coronavirus depends upon cellular proteases which include, human airway trypsin- like protease (HAT), cathepsins and transmembrane protease serine 2 (TMPRSS2) that split the spike protein and establish further penetration changes 
+• SARS CoV-2 targets a type of receptor found in lungs, heart and kidneys and intestines. Virus seems to attack two type of lung cells namely goblet cells and ciliated cells. 
+• The life cycle of SARS-CoV-2 in host cells; begins its life cycle when S protein binds to the cellular receptor ACE2. 
+• virus attaches to a receptor on respiratory cells called angiotensin-converting enzyme 2, or ACE2. 
+• the tiny molecular key on SARS-CoV-2 that gives the virus entry into the cell. This key is called a spike protein, or S-protein. 
+• If we think of the human body as a house and 2019-nCoV [another name for SARS-CoV-2] as a robber, then ACE2 would be the doorknob of the house's door. Once the S-protein grabs it, the virus can enter the house 
+• After receptor binding, the conformation change in the S protein facilitates viral envelope fusion with the cell membrane through the endosomal pathway. 
+• Then SARS-CoV-2 releases RNA into the host cell. 
+• Genome RNA is translated into viral replicase polyproteins pp1a and 1ab, which are then cleaved into small products by viral proteinases. 
+• The polymerase produces a series of sub genomic mRNAs by discontinuous transcription and finally translated into relevant viral proteins. 
+• Viral proteins and genome RNA are subsequently assembled into virions in the ER and Golgi and then transported via vesicles and released out of the cell. 
+• This leads to creation of new viruses that leave the infected cell via the membrane by exocytosis. The takeover of virus imposes stress on the cell which leads to cell death or apoptosis as the cell lose its ability to maintain homeostasis

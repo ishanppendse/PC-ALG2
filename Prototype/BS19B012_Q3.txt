@@ -1,0 +1,6 @@
+Pharmacological management
+There is no vaccine or directed therapy for COVID-19 as of now. There are a number of ongoing clinical trials that help us in finding the cure.
+Treatments
+Convalescent plasma infusion/exchange – immunotherapy using virus-specific antibodies in convalescent plasma was used to improve survival rates of patients with serious infections.
+Anti-malarial drugs - Chloroquine works in malaria by concentrating in lysosomes raising pH to cause lysosomal dysfunction. It also has anti-viral activities by inhibiting endosomal acidification(required for virus-host cell fusion).
+Nucleoside analogues – Nucleoside analogues target the RNA polymerase responsible for replication of viral RNA causing termination of viral genome replication. Ex: Remdesivir – recently approved by FDA for treatment.

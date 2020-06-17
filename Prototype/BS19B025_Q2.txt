@@ -1,0 +1,32 @@
+MOLECULAR PRINCIPLES UNDERLYING THE VIRAL ENTRY INTO HUMAN CELL 
+All coronaviruses contain specific genes in ORF1 downstream regions that encode 
+proteins for viral replication, nucleocapsid and spikes formation . The glycoprotein spikes 
+on the outer surface of coronaviruses are responsible for the attachment and entry of the 
+virus to host cells (fig. 1). The receptor-binding domain (RBD) is loosely attached among 
+virus, therefore, the virus may infect multiple hosts . Other coronaviruses mostly recognize 
+aminopeptidases or carbohydrates as a key receptor for entry to human cells while 
+SARS-CoV and MERS-CoV recognize exopeptidases . The entry mechanism of a 
+coronavirus depends upon cellular proteases which include, human airway trypsin-like 
+protease (HAT), cathepsins and transmembrane protease serine 2 (TMPRSS2) that split 
+the spike protein and establish further penetration changes . SARS-coronavirus require 
+angiotensin-converting enzyme 2 (ACE2) as a key receptor . 
+SARS-CoV-2 possesses the typical coronavirus structure with spike protein and also expressed 
+other polyproteins, nucleoproteins, and membrane proteins, such as RNA polymerase, 3- 
+chymotrypsin-like protease, papain-like protease, helicase, glycoprotein, and accessory proteins . 
+The spike protein of SARS-CoV-2 contains a 3-D structure in the RBD region to maintain the van 
+der Waals forces . The 394 glutamine residue in the RBD region of SARS-CoV-2 is recognized by 
+the critical lysine 31 residue on the human ACE2 receptor . The entire mechanism of pathogenicity 
+of SARS-CoV-2, from attachment to replication is well mentioned in below fig. 
+The life cycle of SARS-CoV-2 in host cells; starts its life cycle when S protein binds to the cellular 
+receptor ACE2. After receptor binding, the conformation change in the S protein facilitates viral 
+envelope fusion with the cell membrane through the endosomal pathway. Then SARS-CoV-2 
+releases RNA into the host cell. Genome RNA is translated into viral replicase polyproteins pp1a 
+and 1ab, which are then cleaved into small products by viral proteinases. The polymerase 
+produces a series of subgenomic mRNAs by discontinuous transcription and finally translated into 
+relevant viral proteins. Viral proteins and genome RNA are subsequently assembled into virions in 
+the ER and Golgi and then transported via vesicles and released out of the cell. ACE2, 
+angiotensin-converting enzyme 2; ER, endoplasmic reticulum; ERGIC, ER–Golgi intermediate 
+compartment. 
+The researchers found that the SARS-CoV-2 spike was 10 to 20 times more likely to bind ACE2 on human 
+cells than the spike from the SARS virus from 2002. This may enable SARS-CoV-2 to spread more easily 
+from person to person than the earlier virus.
