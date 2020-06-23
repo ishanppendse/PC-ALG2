@@ -1,0 +1,26 @@
+([(6, 7)], [(6, 8)], [(0, 8)], [(1, 8)], [(2, 11)])
+([(2, 11), (6, 7)], [(1, 8)], [(0, 8)], [(10, 11)], [(3, 11)])
+([(6, 11)], [(7, 11)], [(6, 7)], [(10, 11)], [(2, 9)])
+([(10, 11)], [(6, 7)], [(2, 9)], [(7, 11)], [(2, 3)])
+([(0, 7)], [(8, 9)], [(2, 3)], [(6, 11)], [(1, 6)])
+([(0, 7)], [(1, 9)], [(8, 9)], [(1, 8)], [(1, 3)])
+Time= 410.030052
+
+First two rows contain the first four ranked doc pairs respectively with condensation=1 and condensation=2 for the first question. Similarly for Q2 and Q3
+
+Conclusions of manual checking:
+Q1) (6,7): Moderate cp with some changes
+    (0,8): Slight cp
+    (1,8): Moderate cp
+    (2,11): Low cp
+
+Q2) (2,9): No plagiarism
+    (7,11): Moderate cp
+    (6,7): Moderate cp
+    (10,11): Moderate cp, 10 is a subset of 11
+
+Q3) (0,7): Very high cp
+    (8,9): Moderate cp
+    (2,3): High cp, 2 is a subset of 3
+    (1,9): No plagiarism
+  
