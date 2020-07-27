@@ -4,3 +4,4 @@
 3. [Possible source code for Ferret Software](https://github.com/abame/ferret)
 4. [GeeksforGeeks source code(for two documents)](https://www.geeksforgeeks.org/measuring-the-document-similarity-in-python/?ref=rp)
 5. [GeeksforGeeks cosine similarity with NLTK](https://www.geeksforgeeks.org/python-measure-similarity-between-two-sentences-using-cosine-similarity/)
+6. [Dataset with Java codes](https://github.com/nordicway/SourceCode-Plagiarism-TestSets/tree/master/MiniFactorial/MiniFactorial-T3-JumpLabel/src)
