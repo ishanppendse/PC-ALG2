@@ -1,10 +1,11 @@
 import math
 import nltk
 from nltk.tokenize import RegexpTokenizer
+from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer 
 from nltk.tokenize import word_tokenize 
 ps = PorterStemmer() 
-
+stop_words = set(stopwords.words('english')) 
 def pre(files):
     lists = []
     for i in files:
@@ -14,6 +15,9 @@ def pre(files):
         tokenizer = RegexpTokenizer(r'\w+')
         text = tokenizer.tokenize(text)
         lists.append(text)
+    for i in range(len(lists)):
+        filtered_sentence = [w for w in lists[i] if not w in stop_words]
+        lists[i]=filtered_sentence
     for docs in lists:
         for i in range(len(docs)):
             docs[i]=ps.stem(docs[i])
