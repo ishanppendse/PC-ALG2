@@ -1,7 +1,9 @@
 import math
 import nltk
 from nltk.tokenize import RegexpTokenizer
-
+from nltk.stem import PorterStemmer 
+from nltk.tokenize import word_tokenize 
+ps = PorterStemmer() 
 
 def pre(files):
     lists = []
@@ -12,6 +14,9 @@ def pre(files):
         tokenizer = RegexpTokenizer(r'\w+')
         text = tokenizer.tokenize(text)
         lists.append(text)
+    for docs in lists:
+        for i in range(len(docs)):
+            docs[i]=ps.stem(docs[i])
     return lists
 
 
